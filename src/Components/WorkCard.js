@@ -9,8 +9,8 @@ const WorkCard = (props) => {
       <div className="pro-details">
         <p>{props.text}</p>
         <div className="pro-btns">
-          <Link className="btn">View</Link>
-          <Link className="btn">Source</Link>
+          <Link to={props.view} className="btn" >View</Link>
+          <Link to={props.source} className="btn">Source</Link>
         </div>
       </div>
     </div>
