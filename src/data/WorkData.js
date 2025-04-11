@@ -1,5 +1,5 @@
-import prop1 from "../assets/project2.png";
-import prop2 from "../assets/project3.png";
+import prop1 from "../assets/project 1.png";
+import prop2 from "../assets/project 2.png";
 import prop3 from "../assets/project4.png";
 
  const ProjectCardData = [
@@ -12,10 +12,10 @@ import prop3 from "../assets/project4.png";
   },
   {
     imageSrc: prop2,
-    title: "Unique Furniture Store",
-    text: "Browse our handcrafted furniture pieces, designed to add elegance and comfort to your home. Shop now for exclusive deals!",
-    view:"",
-    source:""
+    title: "Wasli Food Delivery App",
+    text: "Discover delicious meals and exclusive offers tailored to your taste and lifestyle. Download the app now and enjoy fast delivery with top quality!",
+    view: "https://landingpagefoodorderingapp.netlify.app/",
+    source:"https://github.com/Hadji-Mohamed-tahar/landing-page-app"
   },
   {
     imageSrc: prop3,
